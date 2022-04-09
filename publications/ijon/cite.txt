@@ -1,0 +1,6 @@
+@inproceedings{ijon,
+  author    = {Cornelius Aschermann and Sergej Schumilo and Ali Abbasi and Thorsten Holz},
+  title     = {Ijon: Exploring Deep State Spaces via Fuzzing},
+  booktitle = {IEEE Symposium on Security and Privacy},
+  year      = {2020},
+}
