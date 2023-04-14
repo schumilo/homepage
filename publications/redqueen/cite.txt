@@ -1,0 +1,6 @@
+@inproceedings{redqueen,
+  title={REDQUEEN: Fuzzing with Input-to-State Correspondence},
+  author={Aschermann, Cornelius and Schumilo, Sergej and Blazytko, Tim and Gawlik, Robert and Holz, Thorsten},
+  booktitle={Symposium on Network and Distributed System Security (NDSS)},
+  year={2019},
+}

@@ -1,0 +1,7 @@
+@inproceedings {nyx,
+author = {Sergej Schumilo and Cornelius Aschermann and Ali Abbasi and Simon W{\"o}r-ner and Thorsten Holz},
+title = {Nyx: Greybox Hypervisor Fuzzing using Fast Snapshots and Affine Types},
+booktitle = {30th {USENIX} Security Symposium ({USENIX} Security 21)},
+year = {2021},
+url = {https://www.usenix.org/conference/usenixsecurity21/presentation/schumilo},
+}

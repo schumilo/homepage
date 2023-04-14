@@ -1,0 +1,6 @@
+@inproceedings{hypercube,
+  title={{HYPER-CUBE: High-Dimensional Hypervisor Fuzzing}},
+  author={Schumilo, Sergej and Aschermann, Cornelius and Abbasi, Ali and W{\"o}rner, Simon and Holz, Thorsten},
+  booktitle=isoc-ndss,
+  year={2020}
+}
